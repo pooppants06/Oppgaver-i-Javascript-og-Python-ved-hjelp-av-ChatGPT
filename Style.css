@@ -1,0 +1,18 @@
+.calculator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .input {
+    margin-bottom: 10px;
+  }
+  .buttons {
+    display: flex;
+  }
+  .button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+  }
